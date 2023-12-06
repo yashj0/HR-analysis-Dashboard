@@ -1,4 +1,4 @@
-#HR Data Analysis Summary: Attrition and Strategic Insights
+# HR Data Analysis Summary:Attrition and Strategic Insights
 
 ### Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiNTUyZjU3YTUtODZiNy00ZTI4LWE4Y2YtYzQ1NmVlZjQxNDQyIiwidCI6IjQ1ZDExOTRmLTI1NWUtNDU4NC04MWZlLTBkN2M4ZjlkNWRkMSJ9
 
